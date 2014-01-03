@@ -88,4 +88,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 ## Agenda
 
-Where we will pick what order we wan to do stuff from above lists!
+Where we will pick what order we want to do stuff from above lists!
+
+- Read JavaScript The Good Parts
+
+
