@@ -18,7 +18,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Build a plugin, framework, library
 - Build a app
 
-## Links
+## Resources
 
 ### Books
 
