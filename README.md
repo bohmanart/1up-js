@@ -82,3 +82,10 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 - http://resrc.io/list/18/javascript-frameworks/
 - http://www.bentobox.io/
+
+
+
+
+## Agenda
+
+Where we will pick what order we wan to do stuff from above lists!
