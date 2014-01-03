@@ -93,6 +93,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 Where we will pick what order we want to do stuff from above lists!
 
-- Read JavaScript The Good Parts
+- Mike read *JavaScript The Good Parts* and Blake read _Learning JavaScript_
+- Then swap books
+- Choose book to read
 
 
