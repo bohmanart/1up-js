@@ -77,6 +77,9 @@ To call oneself a front-end developer these days means that the skillset to be p
 ### Specimens to dissect
 
 - https://github.com/jquery/jquery
+- https://github.com/davatron5000/Lettering.js
+- https://github.com/davatron5000/FitVids.js
+- https://github.com/davatron5000/FitText.js 
 
 ### Misc
 
