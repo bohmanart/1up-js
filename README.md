@@ -30,6 +30,15 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://addyosmani.com/writing-modular-js/
 - http://jqfundamentals.com/
 - http://rockablepress.com/books/getting-good-with-javascript
+- jQuery: Novice to Ninja
+- JavaScript the Good Parts
+- Learning JavaScript: A hands-on guide
+- JavaScript Patterns
+- Simply JavaScript
+- JavaScript 24 hour trainer
+- Essential JavaScript design patterns
+- DOM Scripting
+- Ajax web apps
 
 ### Articles
 
@@ -53,6 +62,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
 - https://dash.generalassemb.ly/
+- https://tutsplus.com/course/30-days-to-learn-jquery/
+- http://blog.themeforest.net/screencasts/jquery-for-absolute-beginners-video-series/
 
 ### Tutorials
 
@@ -61,6 +72,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 - http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
 - http://www.paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/
+- http://jqueryfordesigners.com/
 
 ### Specimens to dissect
 
