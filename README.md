@@ -96,8 +96,12 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 Where we will pick what order we want to do stuff from above lists!
 
-- Mike read *JavaScript The Good Parts* and Blake read _Learning JavaScript_
-- Then swap books
-- Choose book to read
+- Read *JavaScript The Good Parts*
+ - ch. 1-4 for meeting Friday, January 10th
+ - ch. 5-8 for meeting Friday, January 17th
+ - ch. 9-10 for meeting Wednesday, January 22nd
+
+- Read _Learning JavaScript_
+ - Do code exercises 
 
 
