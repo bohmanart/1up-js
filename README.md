@@ -46,6 +46,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript 
 - https://github.com/rpflorence/talks/tree/master/2011-10-01-jqcon-boston
 - http://howtonode.org/what-is-this
+- http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
 
 ### Courses
 
