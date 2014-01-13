@@ -70,6 +70,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 ### Tutorials
 
 - http://www.thinkful.com/learn/intro-to-jquery
+- http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
 
 
 ### Videos
