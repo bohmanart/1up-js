@@ -47,6 +47,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - https://github.com/rpflorence/talks/tree/master/2011-10-01-jqcon-boston
 - http://howtonode.org/what-is-this
 - http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
+- http://remysharp.com/2013/04/19/i-know-jquery-now-what/
 
 ### Courses
 
@@ -99,9 +100,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 Where we will pick what order we want to do stuff from above lists!
 
 - Read *JavaScript The Good Parts*
- - ch. 1-4 for meeting Friday, January 10th
- - ch. 5-8 for meeting Friday, January 17th
- - ch. 9-10 for meeting Wednesday, January 22nd
+ - read a chapter and go through code examples in console
+
 
 - Read _Learning JavaScript_
  - Do code exercises 
