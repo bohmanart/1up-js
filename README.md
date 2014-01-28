@@ -39,6 +39,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Essential JavaScript design patterns
 - DOM Scripting
 - Ajax web apps
+- Maintainable Javascript (Nicholas Zakas) ?
+- 
 
 ### Articles
 
