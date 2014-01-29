@@ -22,14 +22,13 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 ### Books
 
-- http://jsbooks.revolunet.com/
-- http://eloquentjavascript.net/
-- http://addyosmani.com/resources/essentialjsdesignpatterns/book/
-- http://domenlightenment.com/
-- http://javascriptenlightenment.com/
-- http://addyosmani.com/writing-modular-js/
-- http://jqfundamentals.com/
-- http://rockablepress.com/books/getting-good-with-javascript
+- Eloquent Javascript http://eloquentjavascript.net/
+- Learning JavaScript Design Patterns http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- DOM Enlightenment http://domenlightenment.com/
+- JavaScript Enlightenment http://javascriptenlightenment.com/
+- Writing Modular JavaScript http://addyosmani.com/writing-modular-js/
+- jQuery Fundamentals http://jqfundamentals.com/
+- Getting Good with JavaScript http://rockablepress.com/books/getting-good-with-javascript
 - jQuery: Novice to Ninja
 - JavaScript the Good Parts
 - Learning JavaScript: A hands-on guide
@@ -39,8 +38,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Essential JavaScript design patterns
 - DOM Scripting
 - Ajax web apps
-- Maintainable Javascript (Nicholas Zakas) ?
-- 
+- Maintainable Javascript (Nicholas Zakas)
 
 ### Articles
 
@@ -91,10 +89,9 @@ To call oneself a front-end developer these days means that the skillset to be p
 
 ### Misc
 
+- A bunch of FREE books http://jsbooks.revolunet.com/
 - http://resrc.io/list/18/javascript-frameworks/
 - http://www.bentobox.io/
-
-
 
 
 ## Agenda
