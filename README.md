@@ -87,6 +87,10 @@ To call oneself a front-end developer these days means that the skillset to be p
 - https://github.com/davatron5000/FitVids.js
 - https://github.com/davatron5000/FitText.js 
 
+### Documentation
+- MDN JS Guide https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- MDN JS Reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
 ### Misc
 
 - A bunch of FREE books http://jsbooks.revolunet.com/
