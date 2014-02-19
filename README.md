@@ -82,6 +82,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
 - http://www.paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/
 - http://jqueryfordesigners.com/
+- http://yuiblog.com/crockford/
 
 ### Specimens to dissect
 
