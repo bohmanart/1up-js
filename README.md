@@ -39,6 +39,8 @@ To call oneself a front-end developer these days means that the skillset to be p
 - DOM Scripting
 - Ajax web apps
 - Maintainable Javascript (Nicholas Zakas)
+- The Principles of Object-Oriented JavaScript
+- Node for Front-End Developers
 
 ### Articles
 
@@ -48,6 +50,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://howtonode.org/what-is-this
 - http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
 - http://remysharp.com/2013/04/19/i-know-jquery-now-what/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 
 ### Courses
 
