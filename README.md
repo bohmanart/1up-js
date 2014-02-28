@@ -51,6 +51,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
 - http://remysharp.com/2013/04/19/i-know-jquery-now-what/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+- http://coding.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/
 
 ### Courses
 
