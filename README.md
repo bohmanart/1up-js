@@ -41,6 +41,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Maintainable Javascript (Nicholas Zakas)
 - The Principles of Object-Oriented JavaScript
 - Node for Front-End Developers
+- Learn Javascript http://gitbookio.github.io/javascript/
 
 ### Articles
 
