@@ -42,6 +42,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - The Principles of Object-Oriented JavaScript
 - Node for Front-End Developers
 - Learn Javascript http://gitbookio.github.io/javascript/
+- YDKJS: Scope & Closures https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md
 
 ### Articles
 
