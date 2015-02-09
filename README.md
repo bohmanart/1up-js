@@ -55,6 +55,9 @@ To call oneself a front-end developer these days means that the skillset to be p
 - http://remysharp.com/2013/04/19/i-know-jquery-now-what/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 - http://coding.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/
+- http://bahmutov.calepin.co/journey-from-procedural-to-reactive-javascript-with-stops.html
+- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+- http://futurice.com/blog/reactive-mvc-and-the-virtual-dom
 
 ### Courses
 
@@ -96,6 +99,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - https://github.com/davatron5000/FitText.js 
 
 ### Documentation
+
 - MDN JS Guide https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - MDN JS Reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
@@ -104,3 +108,4 @@ To call oneself a front-end developer these days means that the skillset to be p
 - A bunch of FREE books http://jsbooks.revolunet.com/
 - http://resrc.io/list/18/javascript-frameworks/
 - http://www.bentobox.io/
+- http://jsforallof.us/
