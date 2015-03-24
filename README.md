@@ -44,6 +44,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Learn Javascript http://gitbookio.github.io/javascript/
 - Effective JavaScript http://www.amazon.com/gp/product/0321812182/
 - YDKJS: Scope & Closures https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md
+- Speaking JavaScript http://speakingjs.com/es5/index.html
 
 ### Articles
 
