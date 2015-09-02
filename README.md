@@ -4,11 +4,6 @@ A todo list of things to get better at JavaScript.
 
 To call oneself a front-end developer these days means that the skillset to be proficient consists of HTML, CSS and JavaScript. This project aims to help jumpstart the learning of the latter.
 
-## Goals
-
-- become comfortable at understanding and using JS
-- be able to have a voice and contribute to how JS is used in projects
-
 ## The Plan
 
 - Reading (books, articles)
@@ -45,6 +40,7 @@ To call oneself a front-end developer these days means that the skillset to be p
 - Effective JavaScript http://www.amazon.com/gp/product/0321812182/
 - YDKJS: Scope & Closures https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md
 - Speaking JavaScript http://speakingjs.com/es5/index.html
+- Understanding ECMAScript 6 (wip) https://leanpub.com/understandinges6/read
 
 ### Articles
 
