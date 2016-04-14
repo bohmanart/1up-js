@@ -1,4 +1,4 @@
-# level-up-js
+# 1up-js
 
 A todo list of things to get better at JavaScript. 
 
