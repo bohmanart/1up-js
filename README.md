@@ -2,9 +2,7 @@
 
 A list of things to get better at JavaScript. 
 
-## Resources
-
-### Books
+## Books
 
 - Eloquent Javascript http://eloquentjavascript.net/
 - Learning JavaScript Design Patterns http://addyosmani.com/resources/essentialjsdesignpatterns/book/
@@ -31,7 +29,7 @@ A list of things to get better at JavaScript.
 - Speaking JavaScript http://speakingjs.com/es5/index.html
 - Understanding ECMAScript 6 (wip) https://leanpub.com/understandinges6/read
 
-### Articles
+## Articles
 
 - http://net.tutsplus.com/tutorials/javascript-ajax/the-best-way-to-learn-javascript/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript 
@@ -45,7 +43,7 @@ A list of things to get better at JavaScript.
 - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 - http://futurice.com/blog/reactive-mvc-and-the-virtual-dom
 
-### Courses
+## Courses
 
 - http://net.tutsplus.com/tutorials/javascript-ajax/javascript-from-null-video-series/
 - http://www.codecademy.com/tracks/javascript
@@ -64,32 +62,32 @@ A list of things to get better at JavaScript.
 - https://tutsplus.com/course/30-days-to-learn-jquery/
 - http://blog.themeforest.net/screencasts/jquery-for-absolute-beginners-video-series/
 
-### Tutorials
+## Tutorials
 
 - http://www.thinkful.com/learn/intro-to-jquery
 - http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
 
 
-### Videos
+## Videos
 
 - http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
 - http://www.paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/
 - http://jqueryfordesigners.com/
 - http://yuiblog.com/crockford/
 
-### Specimens to dissect
+## Specimens to dissect
 
 - https://github.com/jquery/jquery
 - https://github.com/davatron5000/Lettering.js
 - https://github.com/davatron5000/FitVids.js
 - https://github.com/davatron5000/FitText.js 
 
-### Documentation
+## Documentation
 
 - MDN JS Guide https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - MDN JS Reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
-### Misc
+## Misc
 
 - A bunch of FREE books http://jsbooks.revolunet.com/
 - http://resrc.io/list/18/javascript-frameworks/
