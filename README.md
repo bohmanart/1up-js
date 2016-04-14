@@ -1,17 +1,6 @@
 # 1up-js
 
-A todo list of things to get better at JavaScript. 
-
-To call oneself a front-end developer these days means that the skillset to be proficient consists of HTML, CSS and JavaScript. This project aims to help jumpstart the learning of the latter.
-
-## The Plan
-
-- Reading (books, articles)
-- Online Courses
-- Tutorials
-- Dissect a plugin, framework, library
-- Build a plugin, framework, library
-- Build a app
+A list of things to get better at JavaScript. 
 
 ## Resources
 
