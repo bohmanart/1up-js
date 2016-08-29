@@ -67,20 +67,12 @@ A list of things to get better at JavaScript.
 - http://www.thinkful.com/learn/intro-to-jquery
 - http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
 
-
 ## Videos
 
 - http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
 - http://www.paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/
 - http://jqueryfordesigners.com/
 - http://yuiblog.com/crockford/
-
-## Specimens to dissect
-
-- https://github.com/jquery/jquery
-- https://github.com/davatron5000/Lettering.js
-- https://github.com/davatron5000/FitVids.js
-- https://github.com/davatron5000/FitText.js 
 
 ## Documentation
 
