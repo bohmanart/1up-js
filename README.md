@@ -45,7 +45,7 @@ A list of things to get better at JavaScript.
 
 ## Courses
 
-- http://net.tutsplus.com/tutorials/javascript-ajax/javascript-from-null-video-series/
+- https://www.freecodecamp.com/
 - http://www.codecademy.com/tracks/javascript
 - https://www.codeschool.com/paths/javascript
 - http://pluralsight.com/training/Courses/TableOfContents/jquery-free-javascript
@@ -59,6 +59,7 @@ A list of things to get better at JavaScript.
 - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
 - https://dash.generalassemb.ly/
+- http://net.tutsplus.com/tutorials/javascript-ajax/javascript-from-null-video-series/
 - https://tutsplus.com/course/30-days-to-learn-jquery/
 - http://blog.themeforest.net/screencasts/jquery-for-absolute-beginners-video-series/
 
